@@ -1,0 +1,1 @@
+Act of protecting the *systems* that hold and process the critical data.

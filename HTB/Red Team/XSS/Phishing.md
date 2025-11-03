@@ -1,0 +1,4 @@
+
+Another very common type of [[XSS]] attack is a [[Phishing]] attack. A common form would be through injecting fake login forms that send the login details to the attacker's server, which may then be used to log in on behalf of the victim to gain control over their account and [[PII]].
+
+Furthermore, suppose we were to identify an XSS vuln in a web app for a particular organization. In that case, we can use such an attack as a phishing simulation exercise, which will also help us evaluate the security awareness of the organization's employees, especially if they trust the vulnerable web application and do not expect it to harm them.

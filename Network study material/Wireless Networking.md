@@ -1,0 +1,11 @@
+You can choose between three types of deployment:
+- **Centralized deployment**
+	- Most common.
+	- Used when buildings and networks are in close proximity.
+	- On-premises controllers in centralized location.
+- **Converged deployment**
+	- For small campuses or branch offices.
+	- Converges wired and wireless on one network device (access switch) which is both, switch and wireless controller.
+- **Cloud-based deployment**
+	- Uses the cloud to manage network.
+	- Requires third party vendor.

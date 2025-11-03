@@ -1,0 +1,1 @@
+Focused on the subject/system, policy engine, policy administrator, and establishing policy enforcement points.

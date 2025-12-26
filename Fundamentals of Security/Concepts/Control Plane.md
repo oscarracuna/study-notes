@@ -1,0 +1,1 @@
+Consists of the adaptive identity, threat scope reduction, policy-driven access control, and secured zones.

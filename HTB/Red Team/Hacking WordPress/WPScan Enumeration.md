@@ -1,0 +1,2 @@
+
+The --enumerate flag is used to enumerate various components of the [[Wordpress]] application such as plugins, themes, and users. By default [[WPscan]] enumerates all of those including media and backups. However, specific arguments can be supplied to restrict enumeration to specific components. For example, plugins can be enumerated using the  arguments `--enumerate ap`.

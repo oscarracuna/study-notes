@@ -1,0 +1,2 @@
+This is a newer security model that operates on the principle that no one, whether inside or outside the organization, should be trusted by default.
+		-Verification is going to always be required to gain access to system's resources.

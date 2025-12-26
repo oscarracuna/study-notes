@@ -10,4 +10,4 @@ I will be documenting my homelab stuff, university notes and courses/certs.
 - Uni notes - Discrete Math.
 ## Side projects:
 - Improve old Discord bot written in Python and the functionality of playing music. Host it in the homelab. 
-- Deploy Quartz Obsidian notes at Work.
+- Deploy Quartz Obsidian notes at Work. (Obsidian notes already under testing)

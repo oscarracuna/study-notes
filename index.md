@@ -1,14 +1,18 @@
 # Welcome!
 Hey, welcome to my notes!
-I will be documenting my homelab stuff, university notes and courses/certs.
+I will be documenting my homelab stuff, university notes and courses/certs (sometimes in an opinionated way).
 
-## Current goals
-- Move up to System Administrator. Linux sysadmin if we get lucky.
-- Pass Red Hat Certified System Administrator.
+----
+## Goals
+- [ ] Move up to System Administrator. Linux sysadmin if we get lucky.
+- [ ] Be ready to pass Red Hat Certified System Administrator.
+
 ## Currently working on:
 - LFS101 Notes. 
 - Uni notes - Discrete Math.
-- New Windows homelab for Microsoft 365 Fundamentals cert. (Work)
+- New Windows homelab and Microsoft 365 Fundamentals cert. (Work)
+
 ## Side projects:
-- Improve old Discord bot written in Python and the functionality of playing music. Host it in the homelab. 
-- Deploy Quartz Obsidian notes at Work. (Obsidian notes already under testing)
+- [ ] Improve old Discord bot written in Python and the functionality of playing music. Host it in the homelab. 
+- [ ] Deploy Quartz Obsidian notes at Work. (Obsidian notes already under testing - HUGE)
+- [ ] Deploy new Unifi router/fw for the homelab.

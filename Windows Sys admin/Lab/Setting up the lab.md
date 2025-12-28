@@ -8,6 +8,7 @@ https://www.microsoft.com/en-us/evalcenter/download-windows-11-iot-enterprise-lt
 ```
 
 Now, we are going to upload it to Proxmox
+
 ![[Pasted image 20251225205130.png]]
 You can either upload the file (via file transfer) or Download from URL, which is what I ended up doing.
 
@@ -19,10 +20,12 @@ https://pve.proxmox.com/wiki/Windows_VirtIO_Drivers#Downloading_the_Wizard_in_th
 ```
 
 And then select either latest stable or most recent:
+
 ![[Pasted image 20251225214934.png]]
 Copy the link and download the ISO to your Proxmox environment (or upload the file to Proxmox).
 
 And now we can create the Windows VM:
+
 ![[Pasted image 20251225205618.png]]
 
 ![[Pasted image 20251225210605.png]]

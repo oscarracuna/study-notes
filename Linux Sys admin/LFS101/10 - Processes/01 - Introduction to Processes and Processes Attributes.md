@@ -50,3 +50,34 @@ PID 1 is `init` (system initialization process).
 | Process ID (PID)         | Unique Process ID number.                                                                                                                                         |
 | Parent Process ID (PPID) | Process (Parent) that started this process. If the parent dies, the PPID will refer to an adoptive parent; on modern kernels, this is kthreadd which has PPID=2.  |
 | Thread ID (TID)          | Thread ID number. This is the same as the PID for single-threaded processes. For a multi-threaded process, each thread shares the same PID, but has a unique TID. |
+
+# Terminating a Process
+How do you terminate a process?
+
+```
+kill -SIGKILL <pid>
+```
+Or
+```
+kill -9 <pid>
+```
+
+**You can only kill your own processes!**
+Funnily enough, the command `kill` can be used to send any kind of signal to a process, not just a termination one.
+![[Pasted image 20260118164015.png]]
+
+# User and Group IDs
+The OS identifies the user who starts a process by the **Real User ID** (RUID) assigned to the user.
+
+The user who determines the access rights for the users is identified by the **Effective UID** (EUID), which may or may not be the same as their RUID.
+
+At the same time, there are group IDs, so there are also Real Group IDs and Effective Group IDs (RGIDs and EGIDs).
+
+
+# More About Priorities
+Higher priority processes get preferential access to the CPU.
+The priority for a process can be set by specifying a **nice value**. *The lower the nice value, the higher the priority*.
+A nice value of `-20` represents the highest priority and `+19` represents the lowest.
+
+> You can modify the nice value of a process by using `renice +1 <pid>` where the first argument is the increase or decrease of niceness.
+

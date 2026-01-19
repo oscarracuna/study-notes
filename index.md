@@ -15,5 +15,5 @@ I will be documenting my homelab stuff, university notes and courses/certs (some
 ## Side projects:
 - [ ] Improve old Discord bot written in Python and the functionality of playing music. Host it in the homelab. 
 - [ ] Deploy Quartz Obsidian notes at Work. (Obsidian notes already under testing - HUGE)
-- [ ] Deploy new Unifi router/fw for the homelab.
-- [ ] Buy one SATA SSD and one NVME for the 2nd Dell Micro and set up a cluster.
+- [x] Deploy new Unifi router/fw for the homelab.
+- [x] Buy one SATA SSD and one NVME for the 2nd Dell Micro and set up a cluster.

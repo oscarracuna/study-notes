@@ -153,3 +153,7 @@ TO DO next:
 - Isolate Proxmox lab.
 - Play with ACLs.
 - Test L3 capabilities of the Switch.
+
+# UPDATE 
+Turns out, Cisco Small Business switches tend to be more limited and not have a *true* IOS CLI.
+Luckily, I do have an old Catalyst 3560 48 port POE. I would have to use it for labbing only, though. Having one of those on 24/7 is not a smart financial decision.
